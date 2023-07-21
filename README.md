@@ -74,11 +74,11 @@ terraform apply -var-file poc.terraform.tfvars
 
 ```json
 {
-  "id": <String>,
-  "url": <String>,
+  "id": "String",
+  "url": "String",
   "parameters": {
-    "sample_size_limit": <int>, 
-    "sort_criteria": <String> 
+    "sample_size_limit": int, 
+    "sort_criteria": "String" 
   }
 }
 ```
