@@ -77,7 +77,7 @@ terraform apply -var-file poc.terraform.tfvars
   "id": "String",
   "url": "String",
   "parameters": {
-    "sample_size_limit": int, 
+    "sample_size_limit": 42, 
     "sort_criteria": "String" 
   }
 }
