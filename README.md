@@ -21,6 +21,8 @@ Terraform ~1.5
 
 Python ~3.10 
 
+https://youtu.be/FjSVme_djVM
+
 ### Terraform
 
 #### Lancement: déploiement de la lambda et création bucket S3
