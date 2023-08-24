@@ -21,8 +21,6 @@ Terraform ~1.5
 
 Python ~3.10 
 
-https://youtu.be/FjSVme_djVM
-
 ### Terraform
 
 #### Lancement: déploiement de la lambda et création bucket S3
@@ -119,7 +117,7 @@ En cas d'erreur, un JSON contenant le code et le message d'erreur correspondant 
 ```json
 {
   "statusCode": 404,
-  "body": "404 Client Error: Not Found for url: https://public.opendatasoft.com/pi/records/1.0/search/?dataset=covid19-france-livraison-vaccin-region&rows=10000&order_by=kan_code"
+  "body": "404 Client Error: Not Found for url: https://youtu.be/FjSVme_djVM"
 }
 ```
 ```
