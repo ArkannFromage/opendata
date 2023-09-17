@@ -117,7 +117,7 @@ En cas d'erreur, un JSON contenant le code et le message d'erreur correspondant 
 ```json
 {
   "statusCode": 404,
-  "body": "404 Client Error: Not Found for url: https://youtu.be/FjSVme_djVM"
+  "body": "404 Client Error: Not Found for url: https://opendata/id"
 }
 ```
 ```
